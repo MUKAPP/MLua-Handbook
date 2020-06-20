@@ -1,6 +1,6 @@
 # MLua-Handbook
 
-MLua手册(com.mukapp.luahb)软件自2020年6月20日起不再维护（WEB端远程公告，远程代码等会继续维护，但是最近cdn/服务器配置出了点问题，所以不太稳定）。
+MLua手册(com.mukapp.luahb)软件自2020年6月20日起不再维护（WEB端远程公告，远程代码等会继续维护，~~但是最近cdn/服务器配置出了点问题，所以不太稳定~~，CDN换成了Cloudflare，应该稳定多了）。
 
 远程内容在另一个仓库内：[MLua-Handbook-WEB](https://github.com/MUKAPP/MLua-Handbook-WEB)。
 
