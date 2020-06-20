@@ -1,0 +1,64 @@
+{
+  RelativeLayout;
+  layout_width="-1";
+  background=backgroundc;
+  layout_height="-1";
+
+  {
+    LinearLayout;
+    layout_width="-1";
+    layout_height="-1";
+    orientation="vertical";
+
+    {
+      LinearLayout;
+      layout_width="-1";
+      layout_height="-2";
+      elevation="0";
+      background=backgroundc;
+      orientation="vertical";
+      {
+        LinearLayout;
+        layout_width="-1";
+        layout_height="56dp";
+        gravity="center|left";
+        id="mActionBar";
+        {
+          LinearLayout;
+          orientation="horizontal";
+          layout_height="56dp";
+          layout_width="56dp";
+          gravity="center";
+          {
+            ImageView;
+            ColorFilter=primaryc;
+            src=图标("arrow_back");
+            layout_height="32dp";
+            layout_width="32dp";
+            padding="4dp";
+            id="fh";
+            onClick=function()关闭页面()end;
+          };
+        };
+        {
+          TextView;
+          textColor=primaryc;
+          text="渐变颜色参考";
+          paddingLeft="16dp";
+          textSize="20sp";
+          layout_height="-2";
+          layout_width="-2";
+          Typeface=字体("product-Bold");
+        };
+      };
+    };
+
+    {
+      GridView;
+      id="lv";
+      layout_width="-1";
+      layout_height="-1";
+    };
+  };
+
+};
