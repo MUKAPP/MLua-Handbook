@@ -2,7 +2,7 @@
 
 MLua手册(com.mukapp.luahb)软件自2020年6月20日起不再维护（WEB端远程公告，远程代码等会继续维护，但是最近cdn/服务器配置出了点问题，所以不太稳定）。
 
-远程内容在另一个仓库内：（仓库地址）。
+远程内容在另一个仓库内：[MLua-Handbook-WEB](https://github.com/MUKAPP/MLua-Handbook-WEB)。
 
 此项目为MLua手册1.4.0(140)的开源项目。
 
